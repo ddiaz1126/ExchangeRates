@@ -1,2 +1,2 @@
 # ExchangeRates
-Long Short-Term Memory (LSTM) model to forecast off of the exchange rates of EUR to USD.
+Long Short-Term Memory (LSTM) model to forecast off of the exchange rates of EUR to USD. The dataset is of the exchange rate to the top 56 global currencies. As the data is recorded on a daily basis, the data is sequential therefore an LSTM model is adequate to forecast future values. This information can provide insights into evaluating the trends, seasonal patterns, and recurring cycles in the EUR to USD exchange rate. The analysis also has insights into potential risk in the trading strategies and can be used for risk management purposes.
